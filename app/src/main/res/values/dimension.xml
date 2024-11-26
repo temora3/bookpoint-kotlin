@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_nav_icon_size">24dp</dimen>
+    <dimen name="_15sdp">15dp</dimen>
+    <dimen name="_5sdp">5dp</dimen>
+    <dimen name="_90sdp">90dp</dimen>
+    <dimen name="_27sdp">27dp</dimen>
+    <dimen name="_1sdp">1dp</dimen>
+    <dimen name="_10sdp">10dp</dimen>
+    <dimen name="_45sdp">45dp</dimen>
+    <dimen name="_30sdp">30dp</dimen>
+    <dimen name="_20sdp">20dp</dimen>
+    <dimen name="_12sdp">12dp</dimen>
+    <dimen name="_43sdp">43sp</dimen>
+    <dimen name="_7sdp">7sp</dimen>
+    <dimen name="_3sdp">3sp</dimen>
+    <dimen name="_2sdp">2sp</dimen>
+    <dimen name="_16sdp">16sp</dimen>
+</resources>
