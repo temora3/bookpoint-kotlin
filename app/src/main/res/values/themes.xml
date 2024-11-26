@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.BookpointKotlin" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Tutoria" parent="Theme.MaterialComponents.Light.NoActionBar" />
+    <!-- Primary brand color -->
+    <item name="colourPrimary" type="color">@color/tutoriaDarkBlue</item>
+    <item name="colourPrimaryVariant" type="color">@color/tutoriaLightBlue</item>
+    <item name="colourOnPrimary" type="color">@color/white</item>
+    <!-- Secondary brand color -->
+    <item name="colourSecondary" type="color">@color/tutoriaRed</item>
+    <item name="colourSecondaryVariant" type="color">@color/tutoriaRedVariant</item>
+    <item name="colourOnSecondary" type="color">@color/black</item>
+    <!-- Status Bar color -->
+    <item name="colourStatusBar" type="color">@color/tutoriaLightBlue</item>
 </resources>
